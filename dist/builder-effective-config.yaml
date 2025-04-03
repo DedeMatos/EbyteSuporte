@@ -1,0 +1,8 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.ebytesuporte.electron
+win:
+  target: nsis
+files: []
+electronVersion: 35.1.3
